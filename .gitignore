@@ -1,0 +1,10 @@
+**/.DS_Store
+**/settings.py
+**/wsgi.py
+**/asgi.py
+**/manage.py
+**/__pycache__
+**/migrations
+**/.vscode
+**/db.sqlite3
+**/fixtures
